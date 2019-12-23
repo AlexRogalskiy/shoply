@@ -1,0 +1,16 @@
+development:
+  password: ${DEVELOPMENT_PASSWD}
+  theme_id: ${DEVELOPMENT_THEMEID}
+  store: ${DEVELOPMENT_SHOP}
+  ignores: ${DEVELOPMENT_IGNORES}
+production:
+  password: ${PRODUCTION_PASSWD}
+  theme_id: ${PRODUCTION_THEMEID}
+  store: ${PRODUCTION_STORE}
+  timeout: ${PRODUCTION_TIMEOUT}
+  readonly: true
+test:
+  password: ${TEST_PASSWD}
+  theme_id: ${TEST_THEMEID}
+  store: ${TEST_STORE}
+  ignores: ${TEST_IGNORES}

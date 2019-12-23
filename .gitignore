@@ -1,0 +1,37 @@
+### Log file ###
+*.log
+*.log.gz
+*.tmp
+
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+
+### Pictures ###
+*.jpg
+*.jpeg
+*.png
+*.gif
+!no_pic_pearl.png
+
+*.log
+/.project
+/.pydevproject
+
+### CVS ###
+.hgignore
+
+### virtual machine crash logs ###
+hs_err_pid*
+target
+.hg/
+
+### Cache ###
+.cache/
+
+### Logs ###
+.logs/

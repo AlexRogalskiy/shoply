@@ -1,3 +1,3 @@
-#ReposIO
+# Shoply
 
-The ReposIO project
+The Shoply project
